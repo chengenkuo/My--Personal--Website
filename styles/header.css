@@ -1,0 +1,28 @@
+.header-style {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  align-items: right;
+  position: fixed;
+  height: 50px;
+  left: 35px;
+  right:0px;
+  top: 0px;
+}
+.header-style-action{
+  background-color: black;
+  color: white;
+}
+
+.header-left-section {
+  flex: 2;
+
+}
+
+.header-work-section,
+.header-about-section {
+  flex: none; width: 200px;
+}
