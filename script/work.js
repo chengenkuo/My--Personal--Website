@@ -13,3 +13,5 @@ timeline
   .from('.about-link', { stagger:1, y:'-400%', ease:'circ'})
   .to('.footer', { y:0, ease:'expo' })
   .to('.work-content', { x: 0, ease:'rough' })
+
+console.log('version6');
