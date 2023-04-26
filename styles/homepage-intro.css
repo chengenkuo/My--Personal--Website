@@ -65,8 +65,12 @@ canvas {
 }
 .footer-contact,
 .footer-tel,
-.footer-email {
+.footer-email-info {
   flex: 1;
+}
+
+.footer-email-info {
+  color: white;
 }
 .homepage-profile-photo {
   display: relative;
